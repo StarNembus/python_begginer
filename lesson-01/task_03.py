@@ -5,10 +5,3 @@ for i in range(1, 21):
         print(str(i) + " процента")
     elif 4 < i < 21:
         print(str(i) + " процентов")
-
-
-
-
-
-
-
